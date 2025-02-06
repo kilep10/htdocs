@@ -162,3 +162,46 @@ label{
 .main-info-card-text-bottom{
     margin-top: 30px;
 }
+
+
+
+
+
+
+.main-create{
+    padding-top: 120px;
+}
+
+.main-create-inputs{
+    margin-top: 30px;
+}
+
+.main-create-inputs-style{
+    width: 277px;
+    margin-top: 20px;
+    height: 38px;
+    border-radius: 10px;
+    background-color: #EAF7FF;
+    border: 2px solid #B0E1FF;
+    font-size: 18px;
+    padding-left: 15px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.main-create-inputs-style::placeholder{
+    font-size: 18px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.main-create-text{
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.main-create-text-sec{
+    margin-top: 10px;
+}
+
+.main-create-file{
+    margin-top: 10px;
+}
